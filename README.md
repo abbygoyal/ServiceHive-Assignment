@@ -1,6 +1,3 @@
-Here’s a concise **README.md** file for your GitHub repository (`mywebsite-static`) that focuses solely on the functionality of your WordPress project. This version provides a quick overview of what the site does, without delving into the detailed setup or assignment tasks. You can add this to your repository to give viewers a clear idea of the project’s purpose and features.
-
----
 
 # My Business Website - Static Version
 
