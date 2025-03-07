@@ -4,7 +4,7 @@
 ## Overview
 This repository hosts the static version of a WordPress-based business website, originally built with the Astra theme and deployed on Netlify. The site serves as a professional online presence for a fictional business, showcasing services, projects, and contact options.
 
-**Live URL:** [servicehive-assignment.netlify.app/](servicehive-assignment.netlify.app/)
+**Live URL:** [servicehive-assignment.netlify.app](https://servicehive-assignment.netlify.app/)
 
 ---
 
